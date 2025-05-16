@@ -1,8 +1,3 @@
-Great! Based on the provided files and project context, here is a well-structured `README.md` file for your disaster tweet classification project:
-
----
-
-````markdown
 # Disaster Tweet Classification
 
 This project is a machine learning solution to classify tweets as **real disaster-related** or **not**. It was developed for a competition setting, using a dataset of over 7,600 tweets that have been hand-labeled. The model is built using deep learning techniques with TensorFlow and Keras.
