@@ -4,21 +4,6 @@ This project is a machine learning solution to classify tweets as **real disaste
 
 ---
 
-## 📚 Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Architecture](#model-architecture)
-- [Dataset](#dataset)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
-
----
-
 ## 🧾 Introduction
 
 Twitter is increasingly being used in times of emergency to share critical updates. Automatically identifying real disaster tweets can assist emergency responders and journalists. This project aims to build an NLP classifier that distinguishes between real and metaphorical references to disasters.
