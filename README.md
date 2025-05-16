@@ -1,26 +1,6 @@
-Great! Based on the provided files and project context, here is a well-structured `README.md` file for your disaster tweet classification project:
-
----
-
-````markdown
 # Disaster Tweet Classification
 
 This project is a machine learning solution to classify tweets as **real disaster-related** or **not**. It was developed for a competition setting, using a dataset of over 7,600 tweets that have been hand-labeled. The model is built using deep learning techniques with TensorFlow and Keras.
-
----
-
-## 📚 Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Architecture](#model-architecture)
-- [Dataset](#dataset)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
 
 ---
 
@@ -46,8 +26,8 @@ Before running the project, set up a Python environment and install the dependen
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/disaster-tweet-classifier.git
-cd disaster-tweet-classifier
+git clone https://github.com/iamSabib/Tweet-Classification.git
+cd Tweet-Classification
 ````
 
 ### 2. Install Required Packages
@@ -71,7 +51,7 @@ pip install pandas numpy scikit-learn tensorflow
 To train and evaluate the model:
 
 ```bash
-python Team_29.py
+python main.py
 ```
 
 Ensure `train.csv` and `test.csv` are in the same directory as the script or update the script paths accordingly.
