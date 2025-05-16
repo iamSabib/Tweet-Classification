@@ -26,8 +26,8 @@ Before running the project, set up a Python environment and install the dependen
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/disaster-tweet-classifier.git
-cd disaster-tweet-classifier
+git clone https://github.com/iamSabib/Tweet-Classification.git
+cd Tweet-Classification
 ````
 
 ### 2. Install Required Packages
